@@ -1,4 +1,4 @@
-# VOID Ergo S
+# Dactyl Build
 
 A 3d printed, handwired, split keyboard with a layout similar to the Iris/Corne/Kyria by [Victor Lucachi](https://github.com/victorlucachi).
 
